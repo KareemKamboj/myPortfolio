@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Shopster - ECommerce',
-    description: "An e-commerce site's admin dashboard that utilizes React, Syncfusion, and TailwindCSS to provide a user-friendly interface for managing inventory, sales, and customer information",
+    description: "An e-commerce site's admin dashboard that utilizes React, Syncfusion, and tailwindcss to provide a user-friendly interface for managing inventory, sales, and customer information.",
       image: '/images/dashboard-app.png',
       tags: ['React', 'Syncfusion', "tailwindcss"],
     source: 'https://dashboard-app-lyart.vercel.app/',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'DALL-E Clone',
-    description: "A web application that generates images from text descriptions using OpenAI's API and allows you to share it with the community using MERN (MongoDB, Express.js, React, Node.js).",
+    description: "A web application that generates images from text descriptions using OpenAI's API and allows you to share it with the community using MongoDB, Express.js, React, and Node.js.",
     image: '/images/dalle.png',
     tags: ['MERN', 'OpenAIAPI', 'tailwindcss'],
     source: 'https://dalle-clone-tau.vercel.app/',
