@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 3, text: 'Programming Languages'},
-  { number: 100, text: 'Hours of Code', },
+  { number: 1000, text: 'Hours of Code', },
   { number: 10, text: 'Projects', },
   { number: 5, text: 'linkedIn Assessments', }
 ];

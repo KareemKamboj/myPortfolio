@@ -45,7 +45,7 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
-      <SectionText> While I have experience with a range of programming languages, including Python and C#, I find myself most drawn to the MERN stack and JavaScript for their flexibility and robustness. Below is small timeline of my life in the past 10 years.</SectionText>
+      <SectionText> I am a passionate Full Stack Software Engineer born and raised in Queens, New York. I consider myself a highly creative and innovative professional with excellent leadership skills and the ability to maintain humility while being a team player. I am empathetic and always try to keep the big picture in mind, making me a valuable asset to any team. I have a very unique and versatile background including experience in psychology, neuroscience, mathematics, higher education, and medicine. I am adaptable and easy to get along with, making me an excellent fit for any work environment.</SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (

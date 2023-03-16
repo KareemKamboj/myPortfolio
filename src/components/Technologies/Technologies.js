@@ -7,9 +7,9 @@ const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider />
     <br />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Skills</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies including Express, Flask, BootStrap, JQuery, Jinja2 and databases such as MySQL and MongoDB
+      Through the last year I have worked with the following technolgies: HTML, CSS, JavaScript, Python, C#, MERN, Flask, Bootstrap, React.js, Jinja2, Node.js, Material UI , Figma, tailwindcss,  MySQL, MongoDB, Visual Studio Code, Balsamiq, Trello, Agile, GitHub
     </SectionText>
     <List>
       <ListItem>
@@ -43,6 +43,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
     </List>
+    <SectionDivider />
   </Section>
 );
 
