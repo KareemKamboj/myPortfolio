@@ -42,5 +42,6 @@ export const TimeLineData = [
   { year: 2015, text: 'Started a full time job as an Academic Adviser for the City University of New York', },
   { year: 2016, text: 'Began graduate program to attain an M.A. in Psychology with a focus in Neuroscience', },
   { year: 2018, text: 'Began Medical School at the American University of Antigua', },
+  { year: 2021, text: 'Began working at inSynchro doing mostly frontend work using React', },
   { year: 2022, text: 'Completed Coding Bootcamp with the Coding Dojo', },
 ];
