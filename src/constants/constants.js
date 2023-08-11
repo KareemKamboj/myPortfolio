@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'ChatGPT clone',
-    description: "An application that is a direct clone of ChatGPT from OpenAI. It uses vanilla javascript, OpenAI's API, and css ",
-      image: '/images/chatgpt-app.png',
-      tags: ['Javascript', 'OpenAi API', 'CSS'],
-    source: 'https://chat-bot-beta-six.vercel.app/',
-    visit: 'https://github.com/KareemKamboj/ChatBot',
+    title: 'Shopster - ECommerce',
+    description: "An e-commerce site's admin dashboard that utilizes React, Syncfusion, and tailwindcss to provide a user-friendly interface for managing inventory, sales, and customer information.",
+      image: '/images/dashboard-app.png',
+      tags: ['React', 'Syncfusion', "tailwindcss"],
+    source: 'https://dashboard-app-lyart.vercel.app/',
+    visit: 'https://github.com/KareemKamboj/dashboard-app',
     id: 0,
   },
   {
@@ -18,22 +18,13 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Shopster - ECommerce',
-    description: "An e-commerce site's admin dashboard that utilizes React, Syncfusion, and tailwindcss to provide a user-friendly interface for managing inventory, sales, and customer information.",
-      image: '/images/dashboard-app.png',
-      tags: ['React', 'Syncfusion', "tailwindcss"],
-    source: 'https://dashboard-app-lyart.vercel.app/',
-    visit: 'https://github.com/KareemKamboj/dashboard-app',
-    id: 2,
-  },
-  {
     title: 'DALL-E Clone',
     description: "A web application that generates images from text descriptions using OpenAI's API and allows you to share it with the community using MongoDB, Express.js, React, and Node.js.",
     image: '/images/dalle.png',
     tags: ['MERN', 'OpenAIAPI', 'tailwindcss'],
     source: 'https://dalle-clone-tau.vercel.app/',
     visit: 'https://github.com/KareemKamboj/dalleClone',
-    id: 3,
+    id: 2,
   },
 ];
 
