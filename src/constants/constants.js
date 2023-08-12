@@ -17,6 +17,15 @@ export const projects = [
     visit: 'https://github.com/KareemKamboj/OpenAI-InfoPage',
     id: 1,
   },
+    {
+    title: 'PathFinder',
+    description: "path-finding app utilizing Dijkstra's and A* algorithms, allowing users to find the shortest path between two points on a grid-based interface",
+    image: '/images/pathfinder.png',
+    tags: ['Javascript', 'HTML', 'CSS'],
+    source: 'path-finding-e7n15t96l-kareemkamboj.vercel.app',
+    visit: 'https://github.com/KareemKamboj/pathFindingApp',
+    id: 2,
+  },
   {
     title: 'DALL-E Clone',
     description: "A web application that generates images from text descriptions using OpenAI's API and allows you to share it with the community using MongoDB, Express.js, React, and Node.js.",
@@ -24,8 +33,9 @@ export const projects = [
     tags: ['MERN', 'OpenAIAPI', 'tailwindcss'],
     source: 'https://dalle-clone-tau.vercel.app/',
     visit: 'https://github.com/KareemKamboj/dalleClone',
-    id: 2,
+    id: 3,
   },
+
 ];
 
 export const TimeLineData = [
