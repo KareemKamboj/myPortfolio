@@ -8,8 +8,7 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
-        Kareem Kamboj's Portfolio
+        Welcome!
       </SectionTitle>
       <SectionText>
       As a full stack software engineer, I am deeply passionate about building engaging, user-friendly applications and learning more about AI technology. While I have experience with a range of programming languages, including Python and C#, I find myself most drawn to the MERN stack and JavaScript for their flexibility and robustness. I build this portfolio to demenostrate my skills, projects, and abilities as a developer. Though I may be new to the field, I am dedicated to constantly learning and growing, and am excited to contribute my skills and knowledge to the industry.

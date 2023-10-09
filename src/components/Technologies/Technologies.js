@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Skills</SectionTitle>
     <SectionText>
-      Through the last year I have worked with the following technolgies: HTML, CSS, JavaScript, Python, C#, MERN, Flask, Bootstrap, React.js, Jinja2, Node.js, Material UI , Figma, tailwindcss,  MySQL, MongoDB, Visual Studio Code, Balsamiq, Trello, Agile, GitHub
+      Through the last year I have worked with the following technolgies: HTML, CSS, JavaScript, Typescript, Python, C#, MERN, AWS, Flask, Bootstrap, React.js, Jinja2, Node.js, Material UI , Figma, tailwindcss,  MySQL, MongoDB, Visual Studio Code, Balsamiq, Trello, Agile, GitHub
     </SectionText>
     <List>
       <ListItem>
