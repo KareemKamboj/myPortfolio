@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Shopster - ECommerce',
     description: "An e-commerce site's admin dashboard that utilizes React, Syncfusion, and tailwindcss to provide a user-friendly interface for managing inventory, sales, and customer information.",
-      image: '/images/dashboard-app.png',
+      image: '/images/shopster.gif',
       tags: ['React', 'Syncfusion', "tailwindcss"],
     source: 'https://dashboard-app-lyart.vercel.app/',
     visit: 'https://github.com/KareemKamboj/dashboard-app',
